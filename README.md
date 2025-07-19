@@ -35,8 +35,6 @@ This project combines **financial news sentiment analysis** with **VWAP (Volume 
    - Confidence > 80%  
 5. If conditions are met, a **buy signal** is shown. Otherwise, a **sell** or **hold** status appears.
 
----
 
-## 📚 Project Structure
 
 
